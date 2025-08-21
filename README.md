@@ -17,7 +17,7 @@ Pasos:
 - Creación de la variable lista, la cual se llama const lista.
 - Se obtiene el elemento de la lista utilizando document.querySelector().
 - Se limpia la lista existente con lista.innerHTML = ""
-- Se hace la iteración con for para recorrer el arreglo amigos y crear elementos de lista (<li>).
+- Se hace la iteración con for para recorrer el arreglo amigos y crear elementos de lista <li>.
 4. Desarrollo de la función sortear los amigos(function sortearAmigo).
 - Se crea la variable respuesta.
 - Se utiliza document.getElementById() para seleccionar la lista donde se mostrarán los amigos sorteados.
